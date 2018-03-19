@@ -14,6 +14,6 @@ This is documentation to help guide the design and development process for build
 [2015.portshowl.io]('https://2015.portshowl.io')<br>
 [View on Github]('https://github.com/seviglius/portshowlio15' ':target=_blank') 
 <br><br>
-Contribute to the Portshowlio Web Team Documentation. Find docs on Github and built with [Docsify]('https://docsify.js.org/' ':target=_blank')
+Contribute to the Portshowlio Web Team Documentation. Find docs on Github and built with [Docsify](https://docsify.js.org/ ':target=_blank')
 
 
