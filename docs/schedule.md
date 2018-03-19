@@ -84,7 +84,7 @@ Work on making sure all directions in Wordpress Dashboard via Advanced Custom Fi
 
 ##  <span style="color:green">Week 6</span>
 * Development team continues to work on theme development
-* Design team members want to help with development that is encouraged
+* Design team members can jump on board and help with development
 
 ---
 
@@ -100,19 +100,19 @@ Work on making sure all directions in Wordpress Dashboard via Advanced Custom Fi
 ## <span style="color:green">Week 8</span>
 * Development team continues to work on theme development, nearing completion
 * Have multiple students testing and giving feedback about bugs
-* All student content upload complete
+* Deadline for all student content upload this week
 
 ---
 
 
 ## <span style="color:green">Week 9</span>
-* All content edited, images resized, bugs squashed.
+* All content edited, images resized, bugs squashed
 * Launch site
 
 ---
 
 
 ## <span style="color:green">Week 10</span>
-Continue to fix bugs as reported 
+* Continue to fix bugs as reported 
 
 

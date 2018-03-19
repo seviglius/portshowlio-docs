@@ -3,8 +3,8 @@
 
 ## Setup Tools and Local Development
 * Setup your local Wordpress development environment using MAMP or other local Wordpress development server workflows
-* Download and install Portshowlio starter theme to your local Wordpress install
-* Install recommended plugins (download zip)<br>
+* Download and install [Portshowlio starter theme]('https://github.com/seviglius/portshowlio-starter' ':target=_blank') to your local Wordpress install
+* Install recommended plugins [download zip]('https://cl.ly/3d2K12351W1I' ':target-_blank')<br>
     — Advanced Custom Fields Pro (will need license key purchased by SCCA)<br>
     — WP Pusher - for easily managing theme changes via Github repo<br>
     — WP migrate pro<br>
@@ -12,9 +12,9 @@
     — Custom Post Type UI - for easily adding custom post types<br> 
     — User Role Editor - for editing student accounts so they only have access to their specific page<br>
     — Yoast SEO<br><br>
-* Setup Scout-app to compile SASS [(download here)](http://scout-app.io/ ':target=_blank')<br>- You can watch the video on their site which has an overview of the app<br>
-3. Download [Github Desktop app](https://desktop.github.com/ ':target=_blank') or if you're familiar with Git and the command line you can go that route as well.<br>
-   You will need to read through both these guides about version control. [Github Desktop Guide](https://help.github.com/desktop/guides/ ':target=_blank')
+* Setup Scout-app to compile SASS [(download here)]('http://scout-app.io/'' ':target=_blank')<br>- You can watch the video on their site which has an overview of the app<br>
+3. Download [Github Desktop app]('https://desktop.github.com/'' ':target=_blank') or if you're familiar with Git and the command line you can go that route as well.<br>
+   You will need to read through both these guides about version control. [Github Desktop Guide]('https://help.github.com/desktop/guides/'' ':target=_blank')
 
 ## Code Merging and Github
 * Everyone on the devleopment team will need to create a Github account
