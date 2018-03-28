@@ -22,7 +22,7 @@
 * Determine correct image dimensions and ratios for their content prior to have designs fully complete
 
 ### Developer(s) 
-* Using your favorite text editor like [Atom]('https://atom.io/' ':target=_blank' ), you'll use your skills of writing PHP, HTML, CSS, Javascript, Wordpress functions to build a custom Wordpress theme
+* Using your favorite text editor like [Atom](https://atom.io/ ':target=_blank' ), you'll use your skills of writing PHP, HTML, CSS, Javascript, Wordpress functions to build a custom Wordpress theme
 * Manage team development and progress using a repository on Github
 
 
