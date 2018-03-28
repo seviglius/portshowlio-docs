@@ -40,7 +40,7 @@
 * Once the site is ready to have content uploaded, you will provide the STAGING username and password for all students to login to Wordpress and upload their content.
 
 ## Splash Page Upload
-* You will develop an HTML/CSS/JS splash page. You will then convert this into a Wordpress Theme. [Download the Portshowlio Splash theme (need to upload)]('') to get started. 
+* You will develop an HTML/CSS/JS splash page. You will then convert this into a Wordpress Theme by creating a theme with index.php and linking all your site assets.
 
 ## Site Launch
 * From the production environment Wordpress Dashboard, go to WPEngine tab, staging, copy files from staging to live and make sure to include all tables.
